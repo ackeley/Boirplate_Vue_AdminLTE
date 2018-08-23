@@ -1,7 +1,7 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 <br>
 <p align="center">
-VueJs With AdminLTE
+## VueJs With AdminLTE
 </p>
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/vuejs/vue/dev.svg" alt="Build Status"></a>
@@ -11,3 +11,12 @@ VueJs With AdminLTE
   <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/l/vue.svg" alt="License"></a>
   <a href="https://chat.vuejs.org/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="Chat"></a>
 </p>
+
+## Documentation
+
+To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
+To check out [live examples](https://adminlte.io/themes/AdminLTE/index2.html) and docs, visit [adminlte.io](https://adminlte.io/docs/2.4/layout).
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
