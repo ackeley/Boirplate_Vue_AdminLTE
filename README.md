@@ -15,6 +15,7 @@
 ## Documentation
 
 To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
+<br>
 To check out [live examples](https://adminlte.io/themes/AdminLTE/index2.html) and docs, visit [adminlte.io](https://adminlte.io/docs/2.4/layout).
 
 ## License
