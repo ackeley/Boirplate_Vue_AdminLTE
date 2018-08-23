@@ -1,7 +1,8 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 <br>
 <p align="center">
-## VueJs With AdminLTE
+<strong> VueJs With AdminLTE
+</strong>
 </p>
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/vuejs/vue/dev.svg" alt="Build Status"></a>
@@ -21,3 +22,13 @@ To check out [live examples](https://adminlte.io/themes/AdminLTE/index2.html) an
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+## How to use
+
+- You need to have the nodeJs installed on the machine.
+- Makes the clone of this repository access via the terminal where the clone was made.
+- and enter the command: "npm run dev".
+- The compilation will be done and soon the terminal will display a web address.
+
+
+
